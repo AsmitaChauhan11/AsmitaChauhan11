@@ -1,8 +1,3 @@
-<a href="https://portfolio-website-ivory-phi.vercel.app" target="_blank">
-  <img align="right" src="https://img.icons8.com/?size=100&format=png&color=000000&id=59863.AsmitaChauhan11" width="50" alt="Spaceship Icon"/>
-</a>
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=700&size=35&pause=1000&color=FD4690&center=true&width=500&height=70&lines=Hi+There!+❤️;+I'm+Asmita+Chauhan;" alt="Typing SVG" /></a>
 </h1>
